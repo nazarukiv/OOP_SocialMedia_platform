@@ -1,84 +1,11 @@
-# Byte-compiled files
 *.pyc
 *.pyo
 *.pyd
 __pycache__/
-
-# Environment files
 .env
 venv/
 env/
 *.env
-
-# IDE files
-.idea/
-.vscode/
-
-# Python virtual environments
-venv/
-env/
-
-# Logs
 *.log
-
-# MacOS specific
 .DS_Store
-
-# Windows specific
-Thumbs.db
-
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints/
-
-# MyPy
-.mypy_cache/
-.dmypy.json
-dmypy.json
-
-# Pytest
 .cache/
-
-# Coverage reports
-.coverage
-*.coverage
-*.coverage.*
-
-# Build directories
-build/
-dist/
-*.egg-info/
-
-# PyInstaller
-*.spec
-
-# Cython
-cython_debug/
-
-# Flask specific
-instance/
-
-# Django specific
-*.log
-*.pot
-*.pyc
-__pycache__/
-db.sqlite3
-media/
-
-# SQLAlchemy specific
-*.db
-
-# Other
-*.swp
-*.swo
-*.swn
-*.sublime-workspace
-*.sublime-project
-
-# Package distribution files
-*.tar.gz
-*.zip
-*.egg
-
-# Virtual environment folder
-venv/
